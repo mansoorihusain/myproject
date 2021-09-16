@@ -10,7 +10,7 @@ class Sample{
             temp = temp+r;
 
         }
-        System.out.println(temp);
+        System.out.println("added perfect number's"+temp);
         
     }
 
